@@ -1,4 +1,5 @@
 Implementation of SGBM in opencv, verified on Xilinx ZYNQ7035
+基于opencv SGBM的双目深度图提取在fpga上实现
 
 1. Content
 Folder "src" contains all decode source file.
